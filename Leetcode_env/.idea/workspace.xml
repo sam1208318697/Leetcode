@@ -16,6 +16,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_env$Find_All_Anagrams_in_a_String.coverage" NAME="Find_All_Anagrams_in_a_String Coverage Results" MODIFIED="1560489744026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_14" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Rotten_Oranges.coverage" NAME="Rotten_Oranges Coverage Results" MODIFIED="1560342425296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_10" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Shortest_Unsorted_Continuous_Subarray.coverage" NAME="Shortest_Unsorted_Continuous_Subarray Coverage Results" MODIFIED="1560913176135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_16" />
+    <SUITE FILE_PATH="coverage/Leetcode_env$Path_Sum_III.coverage" NAME="Path_Sum_III Coverage Results" MODIFIED="1560937975328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_19" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Reverse_Only_Letters.coverage" NAME="Reverse_Only_Letters Coverage Results" MODIFIED="1559562063737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_03" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Find_the_Town_Judge.coverage" NAME="Find_the_Town_Judge Coverage Results" MODIFIED="1560139093419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_10" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="Best_Time_to_Buy_and_Sell_Stock Coverage Results" MODIFIED="1560475924288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_13" />
@@ -26,6 +27,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_env$Squares_of_a_Sorted_Array.coverage" NAME="Squares_of_a_Sorted_Array Coverage Results" MODIFIED="1560137025011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_10" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Sort_Array_By_Parity.coverage" NAME="Sort_Array_By_Parity Coverage Results" MODIFIED="1559555564612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_03" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Add_to_ArrayForm_of_Integer.coverage" NAME="Add_to_ArrayForm_of_Integer Coverage Results" MODIFIED="1559549251866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_02" />
+    <SUITE FILE_PATH="coverage/Leetcode_env$Maximum_Subarray.coverage" NAME="Maximum_Subarray Coverage Results" MODIFIED="1560932195696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_19" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Valid_Mountain_Array.coverage" NAME="Valid_Mountain_Array Coverage Results" MODIFIED="1560064141981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_04" />
     <SUITE FILE_PATH="coverage/Leetcode_env$DI_String_Match.coverage" NAME="DI_String_Match Coverage Results" MODIFIED="1559639276160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_04" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Hamming_Distance.coverage" NAME="Hamming_Distance Coverage Results" MODIFIED="1560658419022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_16" />
@@ -84,6 +86,8 @@
         <option value="$PROJECT_DIR$/6_16/Find_All_Numbers_Disappeared_In_an_Array.py" />
         <option value="$PROJECT_DIR$/6_16/Add_Two_Numbers.py" />
         <option value="$PROJECT_DIR$/6_16/Shortest_Unsorted_Continuous_Subarray.py" />
+        <option value="$PROJECT_DIR$/6_19/Maximum_Subarray.py" />
+        <option value="$PROJECT_DIR$/6_19/Path_Sum_III.py" />
       </list>
     </option>
   </component>
@@ -128,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,11 +139,17 @@
               <item name="Leetcode_env" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode_env" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Leetcode_env" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode_env" type="462c0819:PsiDirectoryNode" />
+              <item name="6_19" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Shortest_Unsorted_Continuous_Subarray">
+  <component name="RunManager" selected="Python.Path_Sum_III">
     <configuration name="448. FinFind_All_Numbers_Disappeared_in_an_Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,39 +209,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Daily_Temperatures" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Maximum_Subarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_19" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_env" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_16/Daily_Temperatures.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_19/Maximum_Subarray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Hamming_Distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Path_Sum_III" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_19" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_env" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_16/Hamming_Distance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_19/Path_Sum_III.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,19 +267,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Daily_Temperatures" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Hamming_Distance" />
-      <item index="2" class="java.lang.String" itemvalue="Python.448. FinFind_All_Numbers_Disappeared_in_an_Array" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Add_Two_Numbers" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Shortest_Unsorted_Continuous_Subarray" />
+      <item index="0" class="java.lang.String" itemvalue="Python.448. FinFind_All_Numbers_Disappeared_in_an_Array" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Add_Two_Numbers" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Shortest_Unsorted_Continuous_Subarray" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Maximum_Subarray" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Path_Sum_III" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Shortest_Unsorted_Continuous_Subarray" />
-        <item index="1" class="java.lang.String" itemvalue="Python.448. FinFind_All_Numbers_Disappeared_in_an_Array" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Add_Two_Numbers" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Hamming_Distance" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Daily_Temperatures" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Path_Sum_III" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Maximum_Subarray" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Shortest_Unsorted_Continuous_Subarray" />
+        <item index="3" class="java.lang.String" itemvalue="Python.448. FinFind_All_Numbers_Disappeared_in_an_Array" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Add_Two_Numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -295,17 +304,17 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25876662" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22128174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1881259" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19027181" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33010882" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -330,7 +339,7 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -347,7 +356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="45" column="64" lean-forward="true" selection-start-line="45" selection-start-column="64" selection-end-line="45" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -355,7 +363,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -363,7 +370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -405,7 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="320" column="0" lean-forward="false" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -484,7 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -492,7 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="45" column="64" lean-forward="false" selection-start-line="45" selection-start-column="64" selection-end-line="45" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -516,6 +519,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_19/Path_Sum_III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_19/Maximum_Subarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
