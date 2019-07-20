@@ -28,6 +28,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_env$Nim_Game.coverage" NAME="Nim_Game Coverage Results" MODIFIED="1561084203037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_20" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Add_to_ArrayForm_of_Integer.coverage" NAME="Add_to_ArrayForm_of_Integer Coverage Results" MODIFIED="1559549251866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_02" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Power_of_Two.coverage" NAME="Power_of_Two Coverage Results" MODIFIED="1561115233388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_21" />
+    <SUITE FILE_PATH="coverage/Leetcode_env$Reverse_Linked_List.coverage" NAME="Reverse_Linked_List Coverage Results" MODIFIED="1563624051644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_20" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Hamming_Distance.coverage" NAME="Hamming_Distance Coverage Results" MODIFIED="1560658419022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_16" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Valid_Palindrome.coverage" NAME="Valid_Palindrome Coverage Results" MODIFIED="1561189995079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_22" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Flower_Planting_With_No_Adjacent.coverage" NAME="Flower_Planting_With_No_Adjacent Coverage Results" MODIFIED="1559468369986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_02" />
@@ -82,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/6_02/Flower_Planting_With_No_Adjacent.py" />
         <option value="$PROJECT_DIR$/6_02/Add_to_ArrayForm_of_Integer.py" />
         <option value="$PROJECT_DIR$/6_03/Largest_Perimeter_Triangle.py" />
         <option value="$PROJECT_DIR$/6_03/Sort_Array_By_Parity.py" />
@@ -133,6 +133,7 @@
         <option value="$PROJECT_DIR$/7_19/Min_Stack.py" />
         <option value="$PROJECT_DIR$/7_19/Two_Sum_II_Input_array_is_sorted.py" />
         <option value="$PROJECT_DIR$/7_19/Reverse_Bits.py" />
+        <option value="$PROJECT_DIR$/7_20/Reverse_Linked_List.py" />
       </list>
     </option>
   </component>
@@ -189,7 +190,7 @@
             <path>
               <item name="Leetcode_env" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode_env" type="462c0819:PsiDirectoryNode" />
-              <item name="7_19" type="462c0819:PsiDirectoryNode" />
+              <item name="7_20" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Reverse_Bits">
+  <component name="RunManager" selected="Python.Reverse_Linked_List">
     <configuration name="Min_Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,20 +275,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Sum_of_Two_Integers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Reverse_Linked_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_24" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_20" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_env" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_24/Sum_of_Two_Integers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_20/Reverse_Linked_List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,19 +314,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Sum_of_Two_Integers" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Power_of_Three" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Min_Stack" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Two_Sum_II_Input_array_is_sorted" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Reverse_Bits" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Power_of_Three" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Min_Stack" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Two_Sum_II_Input_array_is_sorted" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Reverse_Bits" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Reverse_Linked_List" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Reverse_Bits" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Two_Sum_II_Input_array_is_sorted" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Min_Stack" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Power_of_Three" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Sum_of_Two_Integers" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Reverse_Linked_List" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Reverse_Bits" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Two_Sum_II_Input_array_is_sorted" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Min_Stack" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Power_of_Three" />
       </list>
     </recent_temporary>
   </component>
@@ -350,17 +351,17 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25876662" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25876662" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2067239" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20958512" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33010882" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33010882" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -390,7 +391,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6_01/Last_Stone_Weight.py" />
     <entry file="file://$PROJECT_DIR$/6_02/Add_to_ArrayForm_of_Integer.py" />
     <entry file="file://$PROJECT_DIR$/6_02/Flower_Planting_With_No_Adjacent.py" />
     <entry file="file://$PROJECT_DIR$/6_03/X_of_a_Kind_in_a_Deck_of_Cards.py" />
@@ -653,7 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,7 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,6 +667,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="47" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_20/Reverse_Linked_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding />
         </state>
       </provider>
