@@ -35,6 +35,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_env$Even_sum_after_query.coverage" NAME="Even_sum_after_query Coverage Results" MODIFIED="1560345869554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_12" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Largest_Time_for_Given_Digits.coverage" NAME="Largest_Time_for_Given_Digits Coverage Results" MODIFIED="1560135229452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_04" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Long_Pressed_Name.coverage" NAME="Long_Pressed_Name Coverage Results" MODIFIED="1559566964242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_03" />
+    <SUITE FILE_PATH="coverage/Leetcode_env$Intersection_of_Two_Linked_Lists.coverage" NAME="Intersection_of_Two_Linked_Lists Coverage Results" MODIFIED="1564534889072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_29" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Add_Two_Numbers.coverage" NAME="Add_Two_Numbers Coverage Results" MODIFIED="1560673948891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_16" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Rotate_Array.coverage" NAME="Rotate_Array Coverage Results" MODIFIED="1561275799036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_23" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Remove_Outermost_Parentheses.coverage" NAME="Remove_Outermost_Parentheses Coverage Results" MODIFIED="1559455282049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_01" />
@@ -54,6 +55,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_env$Sum_of_Two_Integers.coverage" NAME="Sum_of_Two_Integers Coverage Results" MODIFIED="1561345091178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_24" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Valid_Mountain_Array.coverage" NAME="Valid_Mountain_Array Coverage Results" MODIFIED="1560064141981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_04" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Excel_Sheet_Column_Number.coverage" NAME="Excel_Sheet_Column_Number Coverage Results" MODIFIED="1561195229531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_22" />
+    <SUITE FILE_PATH="coverage/Leetcode_env$Middle_of_the_Linked_List.coverage" NAME="Middle_of_the_Linked_List Coverage Results" MODIFIED="1564373696478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_29" />
     <SUITE FILE_PATH="coverage/Leetcode_env$DI_String_Match.coverage" NAME="DI_String_Match Coverage Results" MODIFIED="1559639276160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_04" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Reverse_Bits.coverage" NAME="Reverse_Bits Coverage Results" MODIFIED="1563509492257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_19" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Move_Zeroes.coverage" NAME="Move_Zeroes Coverage Results" MODIFIED="1560427860337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_12" />
@@ -61,9 +63,10 @@
     <SUITE FILE_PATH="coverage/Leetcode_env$Largest_Perimeter_Triangle.coverage" NAME="Largest_Perimeter_Triangle Coverage Results" MODIFIED="1559554328516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_03" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Power_of_Three.coverage" NAME="Power_of_Three Coverage Results" MODIFIED="1561363737125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_24" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Last_Stone_Weight.coverage" NAME="Last_Stone_Weight Coverage Results" MODIFIED="1559388847474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_01" />
+    <SUITE FILE_PATH="coverage/Leetcode_env$Remove_Duplicates_from_Sorted_List.coverage" NAME="Remove_Duplicates_from_Sorted_List Coverage Results" MODIFIED="1564373853531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_29" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,10 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/6_02/Add_to_ArrayForm_of_Integer.py" />
-        <option value="$PROJECT_DIR$/6_03/Largest_Perimeter_Triangle.py" />
-        <option value="$PROJECT_DIR$/6_03/Sort_Array_By_Parity.py" />
-        <option value="$PROJECT_DIR$/6_03/X_of_a_Kind_in_a_Deck_of_Cards.py" />
         <option value="$PROJECT_DIR$/6_03/Reverse_Only_Letters.py" />
         <option value="$PROJECT_DIR$/6_03/Long_Pressed_Name.py" />
         <option value="$PROJECT_DIR$/6_04/Valid_Mountain_Array.py" />
@@ -134,6 +133,10 @@
         <option value="$PROJECT_DIR$/7_19/Two_Sum_II_Input_array_is_sorted.py" />
         <option value="$PROJECT_DIR$/7_19/Reverse_Bits.py" />
         <option value="$PROJECT_DIR$/7_20/Reverse_Linked_List.py" />
+        <option value="$PROJECT_DIR$/7_29/Delete_Node_in_a_Linked_List.py" />
+        <option value="$PROJECT_DIR$/7_29/Middle_of_the_Linked_List.py" />
+        <option value="$PROJECT_DIR$/7_29/Remove_Duplicates_from_Sorted_List.py" />
+        <option value="$PROJECT_DIR$/7_29/Intersection_of_Two_Linked_Lists.py" />
       </list>
     </option>
   </component>
@@ -178,19 +181,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Leetcode_env" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode_env" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_env" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_env" type="462c0819:PsiDirectoryNode" />
-              <item name="7_20" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,40 +215,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Reverse_Linked_List">
-    <configuration name="Min_Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Intersection_of_Two_Linked_Lists">
+    <configuration name="Intersection_of_Two_Linked_Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_19" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_29" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_env" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_19/Min_Stack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_29/Intersection_of_Two_Linked_Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Power_of_Three" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Middle_of_the_Linked_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_24" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_29" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_env" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_24/Power_of_Three.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_29/Middle_of_the_Linked_List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Remove_Duplicates_from_Sorted_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_29" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_env" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_29/Remove_Duplicates_from_Sorted_List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,39 +311,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Two_Sum_II_Input_array_is_sorted" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_19" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_env" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_19/Two_Sum_II_Input_array_is_sorted.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Power_of_Three" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Min_Stack" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Two_Sum_II_Input_array_is_sorted" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Reverse_Bits" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Reverse_Linked_List" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Reverse_Bits" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Reverse_Linked_List" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Middle_of_the_Linked_List" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Remove_Duplicates_from_Sorted_List" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Intersection_of_Two_Linked_Lists" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Reverse_Linked_List" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Reverse_Bits" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Two_Sum_II_Input_array_is_sorted" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Min_Stack" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Power_of_Three" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Intersection_of_Two_Linked_Lists" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Remove_Duplicates_from_Sorted_List" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Middle_of_the_Linked_List" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Reverse_Linked_List" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Reverse_Bits" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +353,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25876662" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20958512" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21530758" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -391,10 +389,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6_02/Add_to_ArrayForm_of_Integer.py" />
-    <entry file="file://$PROJECT_DIR$/6_02/Flower_Planting_With_No_Adjacent.py" />
-    <entry file="file://$PROJECT_DIR$/6_03/X_of_a_Kind_in_a_Deck_of_Cards.py" />
-    <entry file="file://$PROJECT_DIR$/6_03/Reverse_Only_Letters.py" />
     <entry file="file://$PROJECT_DIR$/6_03/Sort_Array_By_Parity.py" />
     <entry file="file://$PROJECT_DIR$/6_03/Long_Pressed_Name.py" />
     <entry file="file://$PROJECT_DIR$/6_03/Largest_Perimeter_Triangle.py" />
@@ -674,6 +668,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1545">
           <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_29/Delete_Node_in_a_Linked_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_29/Middle_of_the_Linked_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="64" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_29/Remove_Duplicates_from_Sorted_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_29/Intersection_of_Two_Linked_Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="54" column="39" lean-forward="true" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
           <folding />
         </state>
       </provider>
