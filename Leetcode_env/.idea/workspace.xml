@@ -23,6 +23,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_env$Find_the_Town_Judge.coverage" NAME="Find_the_Town_Judge Coverage Results" MODIFIED="1560139093419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_10" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Palindrome_Linked_List.coverage" NAME="Palindrome_Linked_List Coverage Results" MODIFIED="1561340159921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_24" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Ransom_Note.coverage" NAME="Ransom_Note Coverage Results" MODIFIED="1561196474746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_22" />
+    <SUITE FILE_PATH="coverage/Leetcode_env$Subdomain_Visit_Count.coverage" NAME="Subdomain_Visit_Count Coverage Results" MODIFIED="1566532883683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_23" />
     <SUITE FILE_PATH="coverage/Leetcode_env$448__FinFind_All_Numbers_Disappeared_in_an_Array.coverage" NAME="448. FinFind_All_Numbers_Disappeared_in_an_Array Coverage Results" MODIFIED="1560910828224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_16" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Height_Checker.coverage" NAME="Height_Checker Coverage Results" MODIFIED="1564977794300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_05" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Remove_Linked_List_Elements.coverage" NAME="Remove_Linked_List_Elements Coverage Results" MODIFIED="1564536940650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_31" />
@@ -32,6 +33,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_env$Factorial_Trailing_Zeroes.coverage" NAME="Factorial_Trailing_Zeroes Coverage Results" MODIFIED="1561286335295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_23" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Squares_of_a_Sorted_Array.coverage" NAME="Squares_of_a_Sorted_Array Coverage Results" MODIFIED="1560137025011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_10" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Nim_Game.coverage" NAME="Nim_Game Coverage Results" MODIFIED="1561084203037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_20" />
+    <SUITE FILE_PATH="coverage/Leetcode_env$Distribute_Candies.coverage" NAME="Distribute_Candies Coverage Results" MODIFIED="1566523486792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_23" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Add_to_ArrayForm_of_Integer.coverage" NAME="Add_to_ArrayForm_of_Integer Coverage Results" MODIFIED="1559549251866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_02" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Design_Linked_List.coverage" NAME="Design_Linked_List Coverage Results" MODIFIED="1564545250407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_31" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Power_of_Two.coverage" NAME="Power_of_Two Coverage Results" MODIFIED="1561115233388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_21" />
@@ -60,10 +62,13 @@
     <SUITE FILE_PATH="coverage/Leetcode_env$Linked_List_Cycle.coverage" NAME="Linked_List_Cycle Coverage Results" MODIFIED="1564536243961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_31" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="Best_Time_to_Buy_and_Sell_Stock Coverage Results" MODIFIED="1560475924288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_13" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Number_of_Digit_One.coverage" NAME="Number_of_Digit_One Coverage Results" MODIFIED="1564964303899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_05" />
+    <SUITE FILE_PATH="coverage/Leetcode_env$Uncommon_Words_from_Two_Sentences.coverage" NAME="Uncommon_Words_from_Two_Sentences Coverage Results" MODIFIED="1566528522429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_23" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Binary_Tree_Level_Order_Traversal.coverage" NAME="Binary_Tree_Level_Order_Traversal Coverage Results" MODIFIED="1560999455130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_20" />
+    <SUITE FILE_PATH="coverage/Leetcode_env$Find_the_Difference.coverage" NAME="Find_the_Difference Coverage Results" MODIFIED="1566528500699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_23" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Permutations.coverage" NAME="Permutations Coverage Results" MODIFIED="1566439988530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_22" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Two_City_Scheduling.coverage" NAME="Two_City_Scheduling Coverage Results" MODIFIED="1559463543991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_02" />
     <SUITE FILE_PATH="coverage/Leetcode_env$X_of_a_Kind_in_a_Deck_of_Cards.coverage" NAME="X_of_a_Kind_in_a_Deck_of_Cards Coverage Results" MODIFIED="1559559925918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_03" />
+    <SUITE FILE_PATH="coverage/Leetcode_env$Find_Words_That_Can_Be_Formed_by_Characters.coverage" NAME="Find_Words_That_Can_Be_Formed_by_Characters Coverage Results" MODIFIED="1566529709331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_23" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Majority_Element.coverage" NAME="Majority_Element Coverage Results" MODIFIED="1560478319951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_14" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Pascal_s_Triangle.coverage" NAME="Pascal's_Triangle Coverage Results" MODIFIED="1564992217250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_05" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Find_Common_Characters.coverage" NAME="Find_Common_Characters Coverage Results" MODIFIED="1564990037861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_05" />
@@ -107,11 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/6_21/Power_of_Two.py" />
-        <option value="$PROJECT_DIR$/6_21/Spiral_Matrix.py" />
-        <option value="$PROJECT_DIR$/6_22/Valid_Palindrome.py" />
-        <option value="$PROJECT_DIR$/6_22/Excel_Sheet_Column_Number.py" />
-        <option value="$PROJECT_DIR$/6_22/Ransom_Note.py" />
         <option value="$PROJECT_DIR$/6_22/Intersection_of_Two_Arrays.py" />
         <option value="$PROJECT_DIR$/6_23/Reverse_Vowels_of_a_String.py" />
         <option value="$PROJECT_DIR$/6_23/Statistics_from_a_Large_Sample.py" />
@@ -158,6 +158,11 @@
         <option value="$PROJECT_DIR$/8_22/Jewels_and_Stones.py" />
         <option value="$PROJECT_DIR$/8_22/Keyboard_Row.py" />
         <option value="$PROJECT_DIR$/8_22/NRepeated_Element_in_Size_2N_Array.py" />
+        <option value="$PROJECT_DIR$/8_23/Distribute_Candies.py" />
+        <option value="$PROJECT_DIR$/8_23/Find_the_Difference.py" />
+        <option value="$PROJECT_DIR$/8_23/Find_Words_That_Can_Be_Formed_by_Characters.py" />
+        <option value="$PROJECT_DIR$/8_23/Uncommon_Words_from_Two_Sentences.py" />
+        <option value="$PROJECT_DIR$/8_23/Subdomain_Visit_Count.py" />
       </list>
     </option>
   </component>
@@ -202,8 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,12 +217,14 @@
             <path>
               <item name="Leetcode_env" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode_env" type="462c0819:PsiDirectoryNode" />
-              <item name="8_22" type="462c0819:PsiDirectoryNode" />
+              <item name="8_23" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,116 +251,116 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Keyboard_Row">
-    <configuration name="Fair_Candy_Swap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Subdomain_Visit_Count">
+    <configuration name="Distribute_Candies" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_23" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_env" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_08/Fair_Candy_Swap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_23/Distribute_Candies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Jewels_and_Stones" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Find_Words_That_Can_Be_Formed_by_Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_22" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_23" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_env" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_22/Jewels_and_Stones.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_23/Find_Words_That_Can_Be_Formed_by_Characters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Keyboard_Row" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Find_the_Difference" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_22" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_23" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_env" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_22/Keyboard_Row.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_23/Find_the_Difference.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Missing_Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Subdomain_Visit_Count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_23" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_env" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_05/Missing_Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_23/Subdomain_Visit_Count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Permutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Uncommon_Words_from_Two_Sentences" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_22" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_23" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_env" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_22/Permutations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_23/Uncommon_Words_from_Two_Sentences.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Missing_Number" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Fair_Candy_Swap" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Permutations" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Jewels_and_Stones" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Keyboard_Row" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Distribute_Candies" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Find_the_Difference" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Uncommon_Words_from_Two_Sentences" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Find_Words_That_Can_Be_Formed_by_Characters" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Subdomain_Visit_Count" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Keyboard_Row" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Jewels_and_Stones" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Permutations" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Fair_Candy_Swap" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Missing_Number" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Subdomain_Visit_Count" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Find_Words_That_Can_Be_Formed_by_Characters" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Uncommon_Words_from_Two_Sentences" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Find_the_Difference" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Distribute_Candies" />
       </list>
     </recent_temporary>
   </component>
@@ -380,17 +385,17 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25151148" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25151148" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22961374" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23247497" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33010882" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -427,35 +432,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6_21/Spiral_Matrix.py" />
-    <entry file="file://$PROJECT_DIR$/6_22/Intersection_of_Two_Arrays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_22/Ransom_Note.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_22/Excel_Sheet_Column_Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_22/Valid_Palindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6_23/Reverse_Vowels_of_a_String.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
@@ -748,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,7 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
           <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -764,7 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -772,6 +745,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_23/Find_the_Difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_23/Uncommon_Words_from_Two_Sentences.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_23/Distribute_Candies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_23/Find_Words_That_Can_Be_Formed_by_Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_23/Subdomain_Visit_Count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>
