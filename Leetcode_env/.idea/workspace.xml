@@ -38,6 +38,8 @@
     <SUITE FILE_PATH="coverage/Leetcode_env$Reverse_Linked_List.coverage" NAME="Reverse_Linked_List Coverage Results" MODIFIED="1563624051644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_20" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Hamming_Distance.coverage" NAME="Hamming_Distance Coverage Results" MODIFIED="1560658419022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_16" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Valid_Palindrome.coverage" NAME="Valid_Palindrome Coverage Results" MODIFIED="1561189995079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_22" />
+    <SUITE FILE_PATH="coverage/Leetcode_env$Keyboard_Row.coverage" NAME="Keyboard_Row Coverage Results" MODIFIED="1566520692374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_22" />
+    <SUITE FILE_PATH="coverage/Leetcode_env$Jewels_and_Stones.coverage" NAME="Jewels_and_Stones Coverage Results" MODIFIED="1566520613618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_22" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Flower_Planting_With_No_Adjacent.coverage" NAME="Flower_Planting_With_No_Adjacent Coverage Results" MODIFIED="1559468369986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_02" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Even_sum_after_query.coverage" NAME="Even_sum_after_query Coverage Results" MODIFIED="1560345869554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_12" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Relative_Sort_Array.coverage" NAME="Relative_Sort_Array Coverage Results" MODIFIED="1564556994208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_31" />
@@ -59,6 +61,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_env$Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="Best_Time_to_Buy_and_Sell_Stock Coverage Results" MODIFIED="1560475924288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_13" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Number_of_Digit_One.coverage" NAME="Number_of_Digit_One Coverage Results" MODIFIED="1564964303899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_05" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Binary_Tree_Level_Order_Traversal.coverage" NAME="Binary_Tree_Level_Order_Traversal Coverage Results" MODIFIED="1560999455130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_20" />
+    <SUITE FILE_PATH="coverage/Leetcode_env$Permutations.coverage" NAME="Permutations Coverage Results" MODIFIED="1566439988530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_22" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Two_City_Scheduling.coverage" NAME="Two_City_Scheduling Coverage Results" MODIFIED="1559463543991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_02" />
     <SUITE FILE_PATH="coverage/Leetcode_env$X_of_a_Kind_in_a_Deck_of_Cards.coverage" NAME="X_of_a_Kind_in_a_Deck_of_Cards Coverage Results" MODIFIED="1559559925918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_03" />
     <SUITE FILE_PATH="coverage/Leetcode_env$Majority_Element.coverage" NAME="Majority_Element Coverage Results" MODIFIED="1560478319951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_14" />
@@ -104,10 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/6_20/N-ary_Tree_Level_Order_Traversal.py" />
-        <option value="$PROJECT_DIR$/6_20/Nim_Game.py" />
-        <option value="$PROJECT_DIR$/6_21/Reverse_String.py" />
-        <option value="$PROJECT_DIR$/6_21/Reverse_Words_in_a_String_III.py" />
         <option value="$PROJECT_DIR$/6_21/Power_of_Two.py" />
         <option value="$PROJECT_DIR$/6_21/Spiral_Matrix.py" />
         <option value="$PROJECT_DIR$/6_22/Valid_Palindrome.py" />
@@ -155,6 +154,10 @@
         <option value="$PROJECT_DIR$/8_05/Missing_Number.py" />
         <option value="$PROJECT_DIR$/Min_Cost_Climbing_Stairs.py" />
         <option value="$PROJECT_DIR$/8_08/Fair_Candy_Swap.py" />
+        <option value="$PROJECT_DIR$/8_22/Permutations.py" />
+        <option value="$PROJECT_DIR$/8_22/Jewels_and_Stones.py" />
+        <option value="$PROJECT_DIR$/8_22/Keyboard_Row.py" />
+        <option value="$PROJECT_DIR$/8_22/NRepeated_Element_in_Size_2N_Array.py" />
       </list>
     </option>
   </component>
@@ -199,6 +202,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,14 +214,12 @@
             <path>
               <item name="Leetcode_env" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode_env" type="462c0819:PsiDirectoryNode" />
-              <item name="8_08" type="462c0819:PsiDirectoryNode" />
+              <item name="8_22" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,26 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Fair_Candy_Swap">
-    <configuration name="Duplicate_Zeros" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_env" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_05/Duplicate_Zeros.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Keyboard_Row">
     <configuration name="Fair_Candy_Swap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,20 +266,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Maximum_Product_of_Three_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Jewels_and_Stones" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_22" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_env" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_05/Maximum_Product_of_Three_Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_22/Jewels_and_Stones.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Keyboard_Row" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_22" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_env" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_22/Keyboard_Row.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,39 +323,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Toeplitz_Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Permutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_22" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_env" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_05/Toeplitz_Matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_22/Permutations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Toeplitz_Matrix" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Maximum_Product_of_Three_Numbers" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Duplicate_Zeros" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Missing_Number" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Fair_Candy_Swap" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Missing_Number" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Fair_Candy_Swap" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Permutations" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Jewels_and_Stones" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Keyboard_Row" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Fair_Candy_Swap" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Missing_Number" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Duplicate_Zeros" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Maximum_Product_of_Three_Numbers" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Toeplitz_Matrix" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Keyboard_Row" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Jewels_and_Stones" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Permutations" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Fair_Candy_Swap" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Missing_Number" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +384,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25151148" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2267525" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22961374" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -419,21 +422,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="33" />
+      <option name="time" value="34" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6_20/Nim_Game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_21/Power_of_Two.py" />
-    <entry file="file://$PROJECT_DIR$/6_21/Reverse_Words_in_a_String_III.py" />
-    <entry file="file://$PROJECT_DIR$/6_21/Reverse_String.py" />
     <entry file="file://$PROJECT_DIR$/6_21/Spiral_Matrix.py" />
     <entry file="file://$PROJECT_DIR$/6_22/Intersection_of_Two_Arrays.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -741,7 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
           <caret line="30" column="47" lean-forward="true" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -749,6 +741,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-658">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_22/Jewels_and_Stones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_22/Permutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_22/NRepeated_Element_in_Size_2N_Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_22/Keyboard_Row.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
