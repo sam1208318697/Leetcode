@@ -27,3 +27,4 @@ class Solution:
             right *= a[i]
 
         return res
+
